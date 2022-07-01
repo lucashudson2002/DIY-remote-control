@@ -1,6 +1,6 @@
 <h1 align="center"> DIY Remote Control </h1>
 <p  align="center"> 
-    This is a general DIY remote control to coordiante other projects like the drone, the car and others. <br>
+    This is a general DIY remote control made with arduino to coordiante other projects like the drone, the car and others. <br>
     :construction:  Project under construction  :construction:
 </p>
 
