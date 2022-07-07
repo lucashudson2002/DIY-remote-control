@@ -10,22 +10,21 @@
 
 <h2 align="center">  📁 Descrição dos arquivos </h2>
 
-- main.ino -> arquivo que fica o programa principal
+- DIY-Remote-Control-main.ino -> arquivo que fica o programa principal
+- diagrama.fzz -> arquivo que fica todas as ligações do projeto
 
 <h2 align="center">  🛠️ Lista de itens </h2>
 
 - 2 potenciômetros
-- 2 joysticks + botão
-- 4 botões
+- 2 joysticks + 2 botões
+- 3 botões
 - 2 toggle switch
 - 1 MPU6050
 - 1 NRF24L01
-- Arduino nano ou pro mini
+- Arduino nano
 - Chave liga/desliga
-- Bateria 9V
-- Regulador de tensão 5V
-- Divisor de tensão e led para medir/sinalizar nível da bateria
-- Capacitor, diodo
+- Bateria 9V + suporte
+- Capacitor, diodo, borne
 
 
 <h2 align="center">  ✔️ Técnicas e tecnologias utilizadas </h2>
