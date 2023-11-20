@@ -1,37 +1,25 @@
-<h1 align="center"> DIY Remote Control </h1>
-<p  align="center"> 
-    This is a general DIY remote control made with arduino to coordinate other projects like the drone, the car and others. <br>
-    :construction:  Project under construction  :construction:
+<h1> DIY Remote Control </h1>
+<p > 
+    This is a general DIY remote control made with Heltec Lora32 V3 to coordinate other projects like a drone, a car and others. <br>
 </p>
 
-<h2 align="center">  🔗 Resumo do projeto </h2>
+<img src="solid/render.png" width="512" height="341">
 
-- Controle remoto generalizado baseado no NRF24L01;
-- Possui vários sensores, como joysticks, botões, potenciômetros, acelerômetro/giroscópio e afins, para controlar qualquer projeto.
-
-<h2 align="center">  📁 Descrição dos arquivos </h2>
-
-- DIY-Remote-Control-main.ino -> arquivo que fica o programa principal
-- diagrama.fzz -> arquivo que fica todas as ligações do projeto
-
-<h2 align="center">  🛠️ Lista de itens </h2>
-
-- Placa de acrílico preta no formato da PCB
-- PCB desenvolvida em software e fabricada
-- 2 potenciômetros
-- 2 joysticks + 2 botões
-- 3 botões
-- 2 toggle switch
-- 1 MPU6050
-- 1 NRF24L01
-- Arduino nano
-- Chave liga/desliga
-- Bateria 9V + suporte
-- Capacitor, diodo, borne KRE 2 vias, parafusos, porcas, barras de pinos macho e fêmea
+<h2>  🔗 Resume </h2>
 
 
-<h2 align="center">  ✔️ Técnicas e tecnologias utilizadas </h2>
+<h2>  🛠️ Bill of Materials </h2>
 
-- ``Arduino``
-- ``C++``
-- ``POO``
+- Heltec Lora32 V3
+- 3.7V Lithium Battery or 1s Lipo Battery - 1un.
+- JST-2.54-2P 90º - 2un.
+- Joystick PS4 - 2un.
+- Potentiometer - 2un.
+- Toggle Switch - 2un.
+- Push Button 6x6x7 - 4un.
+- Passive Buzzer 12mm - 1un.
+- Switch SS12D07L2B - 1un.
+- MPU6050 - 1un.
+
+<h2>  ✔️ Techniques and technologies </h2>
+
